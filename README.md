@@ -1,5 +1,5 @@
 ### Hi there, I'm Parvej👦,
-A Reactjs Developer🎯 and designer🎨 from India.
+A React Native & Reactjs Developer🎯 from India.
 
 - 👨‍💻 Reactjs Developer (Typescript)
 - 📚 What do I believe? Jack of all, Master of some.
