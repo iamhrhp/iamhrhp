@@ -1,7 +1,7 @@
 ### Hi there, I'm Parvej👦,
 A React Native & Reactjs Developer🎯 from India.
 
-- 👨‍💻 Reactjs Developer (Typescript)
+- 👨‍💻 React Native & Reactjs (Typescript)
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Instagram](https://instagram.com/parvejk09)
 
